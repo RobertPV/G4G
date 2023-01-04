@@ -20,6 +20,23 @@ namespace Ejercicio04
             concesionaria.añadirCoche(coche4);
             concesionaria.añadirCoche(coche5);
 
+            Console.WriteLine("Lista sin modificaciones");
+            concesionaria.mostrarCoches();
+            
+            concesionaria.eliminarCoche(coche2);
+            concesionaria.eliminarCoche(coche3);
+            
+            Console.WriteLine("Lista con 2 coches eliminados");
+            concesionaria.mostrarCoches();
+
+            concesionaria.añadirCoche(coche2);
+            Console.WriteLine("Lista con 4 coches");
+            concesionaria.mostrarCoches();
+
+            concesionaria.añadirCoche(coche3);
+            concesionaria.añadirCoche(coche3);
+
+            concesionaria.vaciarCoches();
             concesionaria.mostrarCoches();
         }
     }
