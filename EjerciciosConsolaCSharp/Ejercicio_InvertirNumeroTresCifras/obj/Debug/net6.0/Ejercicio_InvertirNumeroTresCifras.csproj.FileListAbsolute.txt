@@ -1,0 +1,15 @@
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\bin\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.exe
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\bin\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.deps.json
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\bin\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.runtimeconfig.json
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\bin\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.dll
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\bin\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.pdb
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.csproj.AssemblyReference.cache
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.AssemblyInfoInputs.cache
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.AssemblyInfo.cs
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.dll
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\refint\Ejercicio_InvertirNumeroTresCifras.dll
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.pdb
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\Ejercicio_InvertirNumeroTresCifras.genruntimeconfig.cache
+C:\Users\Usuario\G4G\EjerciciosConsolaCSharp\Ejercicio_InvertirNumeroTresCifras\obj\Debug\net6.0\ref\Ejercicio_InvertirNumeroTresCifras.dll
