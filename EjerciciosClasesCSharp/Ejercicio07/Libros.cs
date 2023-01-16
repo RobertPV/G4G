@@ -2,25 +2,22 @@ using System;
 
 namespace Ejercicio07
 {
-    class Libros
+    class Libros : Editorial
     {
         private string _nombreLibro;
-        private string _editorial;
-        private int _noPaginas;
         private string _genero;
+        private int _noPaginas;
 
-        public Libros()
+        public Libros() : base ()
         {
             _nombreLibro = "";
-            _editorial = "";
-            _noPaginas = 0;
             _genero = "";
+            _noPaginas = 0;
         }
         
-        public Libros(string nombreLibro, string editorial, int noPaginas, string genero)
+        public Libros(string nombreLibro, string pais, int noPaginas, string genero, string nombreEditorial, int añoPublicacion, int noRevision) : base(nombreEditorial, pais, añoPublicacion, noRevision)
         {
             _nombreLibro = nombreLibro;
-            _editorial = editorial;
             _noPaginas = noPaginas;
             _genero = genero;
         }
@@ -33,19 +30,18 @@ namespace Ejercicio07
             }
             set
             {
-                nombreLibro = _nombreLibro;
+                _nombreLibro = value;
             }
         }
-
-        public string editorial
+        public string genero
         {
             get
             {
-                return _editorial;
+                return _genero;
             }
             set
             {
-                editorial = _editorial;
+                _genero = value;
             }
         }
 
@@ -57,25 +53,13 @@ namespace Ejercicio07
             }
             set
             {
-                noPaginas = _noPaginas;
-            }
-        }
-
-        public string genero
-        {
-            get
-            {
-                return _genero;
-            }
-            set
-            {
-                genero = _genero;
+                _noPaginas = value;
             }
         }
 
         public override string ToString()
         {
-            return "Nombre del Libro: " + nombreLibro + "\nEditorial: " + editorial + "\nNumero de Paginas: " + noPaginas + "\nGenero: " + genero;
+            return  "Nombre del Libro: " + nombreLibro + "\nGenero: " + genero + "\nNumero de Paginas: " + noPaginas + base.ToString();
         }
     }
 }
